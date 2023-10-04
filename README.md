@@ -40,7 +40,7 @@ Code repositories to our works under the project:
 
 #### FAST-VQA *(end-to-end!)*
 
-![fast](fastvqa_head.png)
+![fastvqa_head](https://github.com/VQAssessment/FAST-VQA-and-FasterVQA/raw/dev/demos/fastervqa.png)
 
 [FAST-VQA/FasterVQA](https://github.com/VQAssessment/FAST-VQA-and-FasterVQA) | [ECCV-2022](https://arxiv.org/abs/2207.02595) | [TPAMI, 2023](https://arxiv.org/abs/2210.05357) 
 
