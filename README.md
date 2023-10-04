@@ -11,7 +11,7 @@ See our 🖥️[codebase](https://github.com/VQAssessment/Q-Bench) and 📑[pape
 
 We are a young research team from [Nanyang Technological University (NTU)](ntu.edu.sg) and [Sensetime Research](sensetime.com), aiming to build efficient and explainable Image and Video Quality Assessment approaches as well as exploring the perceptual mechanisms behind the human quality perception.
 
-### :sparkles: Selected Research Projects
+### Selected Research Projects
 
 Code repositories to our works under the project:
 
