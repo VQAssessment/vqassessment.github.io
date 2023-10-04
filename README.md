@@ -4,7 +4,7 @@ Maintained by: [Teo Wu](https://teowu.github.io) (Haoning Wu)
 
 🌟New: We have published a benchmark for **multi-modality large language models (MLLMs)** on low-level vision and visual quality assessment!
 
-![qbench](qbench.png)
+![qbench](qbench_head.png)
 
 See our 🖥️[codebase](https://github.com/VQAssessment/Q-Bench) and 📑[paper](https://https://www.researchgate.net/publication/374156853_Q-BENCH_A_BENCHMARK_FOR_GENERAL-PURPOSE_FOUNDATION_MODELS_ON_LOW-LEVEL_VISION)!
 
@@ -17,7 +17,7 @@ Code repositories to our works under the project:
 
 #### ExplainableVQA
 
-![evqa](evqa.png)
+![evqa](evqa_head.png)
 
 [MaxVQA and MaxWell database](https://github.com/VQAssessment/MaxVQA) (ACM MM, 2023) | [Paper](https://arxiv.org/abs/2305.12726) 
 
@@ -29,7 +29,7 @@ Code repositories to our works under the project:
 
 #### DOVER (Aesthetic VQA)
 
-![dover](dover.png)
+![dover](dover_head.png)
 
 [DOVER](https://github.com/VQAssessment/DOVER) (ICCV, 2023) | [Paper](https://arxiv.org/abs/2211.04894) | [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/disentangling-aesthetic-and-technical-effects/video-quality-assessment-on-live-fb-lsvq)](https://paperswithcode.com/sota/video-quality-assessment-on-live-fb-lsvq?p=disentangling-aesthetic-and-technical-effects)
 
@@ -40,7 +40,7 @@ Code repositories to our works under the project:
 
 #### FAST-VQA *(end-to-end!)*
 
-![fast](fastvqa.png)
+![fast](fastvqa_head.png)
 
 [FAST-VQA/FasterVQA](https://github.com/VQAssessment/FAST-VQA-and-FasterVQA) | [ECCV-2022](https://arxiv.org/abs/2207.02595) | [TPAMI, 2023](https://arxiv.org/abs/2210.05357) 
 
