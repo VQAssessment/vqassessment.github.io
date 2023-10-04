@@ -1,4 +1,4 @@
-# Visual Quality Assessment
+# Visual Quality Assessment Group @ NTU
 
 Maintained by: [Teo Wu](https://teowu.github.io) (Haoning Wu)
 
@@ -11,11 +11,11 @@ See our 🖥️[codebase](https://github.com/VQAssessment/Q-Bench) and 📑[pape
 
 We are a young research team from [Nanyang Technological University (NTU)](ntu.edu.sg) and [Sensetime Research](sensetime.com), aiming to build efficient and explainable Image and Video Quality Assessment approaches as well as exploring the perceptual mechanisms behind the human quality perception.
 
-### Selected Research Projects
+## Selected Research Projects
 
 Code repositories to our works under the project:
 
-#### ExplainableVQA
+### ExplainableVQA
 
 ![evqa](evqa_head.png)
 
@@ -27,7 +27,7 @@ Code repositories to our works under the project:
 - Try our demo at [Github](https://vqassessment.github.io/ExplainableVQA)
 
 
-#### DOVER (Aesthetic VQA)
+### DOVER (Aesthetic VQA)
 
 ![dover](dover_head.png)
 
@@ -38,7 +38,7 @@ Code repositories to our works under the project:
 - First Multi-dimensional Dataset for Non-reference Video Quality Assessment
 - See our repository at [Github](https://vqassessment.github.io/DOVER)
 
-#### FAST-VQA *(end-to-end!)*
+### FAST-VQA *(end-to-end!)*
 
 ![fastvqa_head](https://github.com/VQAssessment/FAST-VQA-and-FasterVQA/raw/dev/demos/fastervqa.png)
 
@@ -48,4 +48,7 @@ Code repositories to our works under the project:
 - Super Efficient, real-time even on Apple M1 CPU!
 - See our weights/code/toolbox at [Github](https://vqassessment.github.io/FAST-VQA-and-FasterVQA)
 
+### Contact
+
+Contact Teo Wu (Haoning Wu, haoning001@e.ntu.edu.sg or realtimothyhwu@gmail.com) for inquiries related to code and datasets.
 
